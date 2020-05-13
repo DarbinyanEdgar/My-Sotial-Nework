@@ -1,4 +1,4 @@
-import {profileApi, usersApi} from "../api/api";
+import {profileApi, usersApi} from "../Api/api";
 
 const ADD_POST = 'ADD-POST'
 const UPDATE_POST = 'UPDATE-POST'
