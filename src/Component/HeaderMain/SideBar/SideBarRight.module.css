@@ -1,0 +1,12 @@
+.sidebarR {
+
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    margin-top: 60px;
+    height: 100%;
+    right: 0;
+    width: 70px;
+    background-color: #343434;
+}
+

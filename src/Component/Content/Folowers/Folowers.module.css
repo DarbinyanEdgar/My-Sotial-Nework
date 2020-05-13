@@ -1,0 +1,50 @@
+.folower {
+
+    grid-area: folower;
+    background: #424242 none repeat scroll 0 0;
+    border-color: #3e3e3e;
+    border-radius: 5px;
+    height: 410px;
+
+}
+
+.main {
+    display: flex;
+
+}
+
+.name {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 18px;
+    height: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.row {
+    display: flex;
+    margin-top: 25px;
+    margin-left: 40px;
+
+}
+
+.row li {
+    list-style: none;
+    margin-left: 20px;
+    color: white;
+    line-height: 1.4em;
+}
+
+.row a {
+    color: white;
+}
+
+.row li:last-child {
+    color: #0f82d2;
+}
+
+.row a:hover {
+    transition: all .5s;
+    color: #0f82d2;
+}

@@ -1,0 +1,11 @@
+.avat {
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 17px;
+}
+
+.avat div {
+    margin-bottom: 10px;
+}

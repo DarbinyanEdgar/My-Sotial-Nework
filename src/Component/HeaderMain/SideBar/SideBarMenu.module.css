@@ -1,0 +1,15 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    margin-top: 40px;
+
+}
+
+.item span {
+    color: #9196b1;
+    margin-bottom: 40px;
+    font-weight: 200;
+    font-size: 25px;
+}

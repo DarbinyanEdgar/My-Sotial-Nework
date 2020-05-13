@@ -1,0 +1,16 @@
+.left{
+    height: 100vh;
+    margin-top: 100px;
+    width: 270px;
+    display: grid;
+    grid-template-areas:
+            "content "
+            "recent "
+            "folower "
+;
+ grid-template-columns:100% ;
+    grid-row-gap: 20px;
+    grid-column-gap: 10px;
+
+
+}

@@ -1,0 +1,16 @@
+.center{
+    height: 100vh;
+    margin-top: 100px;
+    width:555px;
+    display: grid;
+    grid-template-areas:
+            "center1 "
+            "center2 "
+            "center3 "
+;
+    grid-template-columns:100% ;
+    grid-row-gap: 20px;
+    grid-column-gap: 10px;
+
+
+}

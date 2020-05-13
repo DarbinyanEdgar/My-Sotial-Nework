@@ -1,0 +1,15 @@
+.right{
+    height: 100vh;
+    margin-top: 100px;
+    width: 270px;
+    display: grid;
+    grid-template-areas:
+            "friends "
+
+;
+    grid-template-columns:100% ;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+
+
+}

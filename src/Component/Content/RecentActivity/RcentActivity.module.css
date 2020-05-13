@@ -1,0 +1,48 @@
+.recent {
+    grid-area: recent;
+    background: #424242 none repeat scroll 0 0;
+    border-color: #3e3e3e;
+    border-radius: 5px;
+
+}
+
+.name {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 18px;
+    height: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.row {
+
+    right: 30px;
+    width: 240px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    border-left: 2px solid #096db1;
+}
+
+.row h5 {
+    margin-left: 15px;
+    font-size: 12px;
+    font-style: italic;
+    color: white;
+}
+
+.row a {
+    margin-left: 15px;
+    color: white;
+    line-height: 1.7em;
+}
+
+.row a:last-child {
+    color: #0f82d2;
+}
+
+.row a:hover {
+    color: #0f82d2;
+    transition: all .5s ease;
+}

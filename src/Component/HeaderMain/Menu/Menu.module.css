@@ -1,0 +1,58 @@
+.menu {
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+
+.menurow ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.menurow ul li {
+    margin-left: 50px;
+    color: white;
+}
+
+.menurow ul li a {
+    text-decoration: none;
+    color: white;
+}
+.settingArea{
+    display: flex;
+
+}
+.settingArea ul {
+    display: flex;
+    margin: 0;
+}
+
+.settingArea ul li a {
+   width: 48px;
+    height: 56px;
+}
+.settingArea ul button {
+    width: 65px;
+    height: 56px;
+    color: white;
+    display: flex;
+
+}
+.settingArea ul button span {
+    font-style: inherit;
+    font-weight: 100;
+   color:#9196b1;
+    border-bottom-color: rebeccapurple;
+    text-transform: none;
+    line-height: 1;
+    margin-top: 2px;
+}
+.avatar {
+    margin-left: 50px;
+     display: flex;
+    align-items: center;
+}
+

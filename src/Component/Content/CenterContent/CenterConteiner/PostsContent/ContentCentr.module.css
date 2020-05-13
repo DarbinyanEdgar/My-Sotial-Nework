@@ -1,0 +1,128 @@
+.center1 {
+    width: 555px;
+    height: 1140px;
+    background: #424242 none repeat scroll 0 0;
+    border-color: #3e3e3e;
+
+    border-radius: 5px;
+}
+
+.row {
+    display: flex;
+    padding: 25px;
+}
+
+.prow {
+    margin: 5%;
+    color: white;
+}
+
+.title {
+    list-style: none;
+    margin-left: 17px;
+    line-height: 1.5em;
+}
+.title li{
+    color: white;
+}
+.title li a {
+    font-size: 16px;
+}
+
+.pic img {
+    margin-left: 5%;
+    width: 90%;
+    height: 300px;
+}
+
+.feedback {
+    display: flex;
+
+}
+
+.feedback span {
+    margin-left: 15px;
+    padding-left: 15px;
+    margin-top: 8px;
+    color: white;
+    font-size: 20px;
+}
+
+.feedback span:last-child {
+    color: red;
+}
+
+.feedback span:nth-child(3) {
+    color: green;
+}
+.prow{
+    line-height: 1.6em;
+}
+.comment {
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.avat {
+    margin-left: 20px;
+}
+
+.commentmain {
+    margin-left: 20px;
+    margin-right: 5%;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.commentmain li {
+    list-style: none;
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.commentmain a {
+
+    color: white;
+}
+
+.commentmain p {
+    margin-left: 8px;
+    color: white;
+
+}
+
+.commentmain span {
+    margin-left: 8px;
+    color: #0f82d2;
+}
+
+.commentRow {
+    display: flex;
+    padding: 10px 0 0 0;
+
+}
+
+.more {
+    display: flex;
+    margin-left: 230px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.inputrow{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.inp{
+    margin-left: 20px;
+
+}
+.inp input{
+    width: 440px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #393939;
+    border: 0;
+}

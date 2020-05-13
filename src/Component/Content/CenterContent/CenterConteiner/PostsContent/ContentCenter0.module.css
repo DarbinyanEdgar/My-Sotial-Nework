@@ -1,0 +1,62 @@
+.center0 {
+    width: 555px;
+    height: 150px;
+    background: #424242 none repeat scroll 0 0;
+    border-color: #3e3e3e;
+
+    border-radius: 5px;
+}
+
+.row {
+    display: flex;
+    padding: 25px;
+}
+
+.inputrow {
+    display: flex;
+
+}
+
+.inp {
+    margin-left: 20px;
+
+}
+
+.inp input {
+    width: 440px;
+    height: 70px;
+    border-radius: 5px;
+    background-color: #393939;
+    border: 0;
+}
+
+.sotial {
+    height: 40px;
+    width: 440px;
+    background-color: #393939;
+    border-radius: 5px;
+}
+
+.sotic {
+    display: flex;
+    margin-left: 200px;
+
+
+}
+
+.sotic span {
+    margin-right: 15px;
+    color: white;
+    font-size: 1.6em;
+    cursor: pointer;
+}
+
+.sotic button {
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-color: #0f82d2;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}

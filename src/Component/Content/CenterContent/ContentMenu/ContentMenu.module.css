@@ -1,0 +1,54 @@
+.content {
+    background: #424242 none repeat scroll 0 0;
+    border-color: #3e3e3e;
+    border-radius: 5px;
+    grid-area: content;
+}
+
+.name {
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 18px;
+    height: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.content ul:hover{
+
+}
+
+.content ul span {
+    color: white;
+    font-weight: lighter;
+
+}
+
+.content ul span:hover {
+    color: #096db1;
+    transition: all .5s;
+}
+
+.content ul li {
+    list-style: none;
+    margin-bottom: 22px;
+}
+
+.content ul li:hover {
+    color: #096db1;
+    transition: all .5s;
+}
+
+.content ul li a {
+    color: white;
+    margin-left: 20px;
+    font-size: 16px;
+
+}
+.content ul li a.active{
+    color: #096db1;
+}
+.content ul li a:hover {
+    color: #096db1;
+    transition: all .5s;
+}
